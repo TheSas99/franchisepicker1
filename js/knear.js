@@ -16,18 +16,20 @@ function setup() {
 
     var titles = data.titles;
     for (var i = 0; i < titles.length; i++) {
-        var div = createDiv(titles[i]);
+        var div1 = createDiv(titles[i]);
+        div1.parent(main);
         var dropdown = createSelect('');
         dropdown.title = titles[i];
         dropdown.option('niet gezien');
-        dropdown.parent(div);
+        dropdown.parent(div1);
         dropdowns.push(dropdown);
         for (var star = 1; star < 6; star++) {
             dropdown.option(star);
         }
     }
 
-    var button = createButton('Versturen');
+    var button = createButton('VERSTUREN');
+    button.parent(main);
     button.mousePressed(predictRatings);
     resultP = createP('');
 
@@ -85,9 +87,10 @@ function setup() {
                 }
 
                 var stars = nf(weightedSum / similaritySum, 1, 2);
-                var div = createDiv(title + ': ' + stars);
-                resultDivs.push(div);
-                div.parent(resultP);
+                var div2 = createDiv(title + ': ' + stars);
+                resultDivs.push(div2);
+                div2.parent(resultP);
+
             }
         }
         console.log(similarityScores);

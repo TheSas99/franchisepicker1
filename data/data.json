@@ -1,5 +1,5 @@
 {
-  "titles": ["Jurassic World", "Harry Potter", "Toy Story", "Iron Man", "Lord of the Rings", "Batman", "Spiderman","Star Wars", "Frozen"],
+  "titles": ["Jurassic World", "Harry Potter", "Toy Story", "Iron Man", "Lord of the Rings", "Batman", "Spiderman","Star Wars", "Frozen", "Avengers", "Guardians of the Galaxy", "Fantastic Beasts"],
   "users": [{
     "name": "Sasja",
     "Iron Man": 3,
@@ -10,7 +10,10 @@
     "Toy Story": 5,
     "Spiderman": 4,
     "Star Wars": 4,
-    "Frozen": 3
+    "Frozen": 3,
+    "Avengers": 4,
+    "Guardians of the Galaxy": 3,
+    "Fantastic Beasts": 2
   }, {
     "name": "Nico",
     "Iron Man": 4,
@@ -21,7 +24,10 @@
     "Toy Story": 3,
     "Spiderman": 4,
     "Star Wars": 3,
-    "Frozen": 1
+    "Frozen": 1,
+    "Avengers": 4,
+    "Guardians of the Galaxy": 5,
+    "Fantastic Beasts": 3
   }, {
     "name": "Davy",
     "Iron Man": 4,
@@ -32,7 +38,10 @@
     "Toy Story": 2,
     "Spiderman": 5,
     "Star Wars": 5,
-    "Frozen": 1
+    "Frozen": 1,
+    "Avengers": 3,
+    "Guardians of the Galaxy": 4,
+    "Fantastic Beasts": 1
   }, {
     "name": "John",
     "Iron Man": 5,
@@ -43,7 +52,10 @@
     "Toy Story": 2,
     "Spiderman": 3,
     "Star Wars": 4,
-    "Frozen": 5
+    "Frozen": 5,
+    "Avengers": 4,
+    "Guardians of the Galaxy": 3,
+    "Fantastic Beasts": 3
   }, {
     "name": "Amazon",
     "Iron Man": 3,
@@ -54,7 +66,10 @@
     "Toy Story": 5,
     "Spiderman": 4,
     "Star Wars": 2,
-    "Frozen": 1
+    "Frozen": 1,
+    "Avengers": 3,
+    "Guardians of the Galaxy": 3,
+    "Fantastic Beasts": 4
   }, {
     "name": "Codeland",
     "Iron Man": 4,
@@ -65,7 +80,10 @@
     "Toy Story": 3,
     "Spiderman": 4,
     "Star Wars": 3,
-    "Frozen": 5
+    "Frozen": 5,
+    "Avengers": 4,
+    "Guardians of the Galaxy": 3,
+    "Fantastic Beasts": 4
   }, {
     "name": "Harry",
     "Iron Man": 4,
@@ -76,7 +94,10 @@
     "Toy Story": 5,
     "Spiderman": 4,
     "Star Wars": 5,
-    "Frozen": 5
+    "Frozen": 5,
+    "Avengers": 4,
+    "Guardians of the Galaxy": 4,
+    "Fantastic Beasts": 5
   }, {
     "name": "Ronald",
     "Iron Man": 3,
@@ -98,7 +119,10 @@
     "Toy Story": 4,
     "Spiderman": 3,
     "Star Wars": 4,
-    "Frozen": 3
+    "Frozen": 3,
+    "Avengers": 4,
+    "Guardians of the Galaxy": 3,
+    "Fantastic Beasts": 2
   }, {
     "name": "Daniel",
     "Iron Man": 4,
@@ -109,7 +133,10 @@
     "Toy Story": 3,
     "Spiderman": 3,
     "Star Wars": 4,
-    "Frozen": 2
+    "Frozen": 2,
+    "Avengers": 4,
+    "Guardians of the Galaxy": 2,
+    "Fantastic Beasts": 1
   }, {
     "name": "Jaden",
     "Iron Man": 4,
@@ -120,7 +147,10 @@
     "Toy Story": 2,
     "Spiderman": 4,
     "Star Wars": 4,
-    "Frozen": 4
+    "Frozen": 4,
+    "Avengers": 3,
+    "Guardians of the Galaxy": 2,
+    "Fantastic Beasts": 1
   }, {
     "name": "Jan",
     "Iron Man": 5,
@@ -131,7 +161,10 @@
     "Toy Story": 3,
     "Spiderman": 5,
     "Star Wars": 4,
-    "Frozen": 2
+    "Frozen": 2,
+    "Avengers": 5,
+    "Guardians of the Galaxy": 4,
+    "Fantastic Beasts": 1
   }, {
     "name": "Kenneth",
     "Iron Man": 3,
@@ -142,7 +175,10 @@
     "Toy Story": 3,
     "Spiderman": 4,
     "Star Wars": 2,
-    "Frozen": 1
+    "Frozen": 1,
+    "Avengers": 3,
+    "Guardians of the Galaxy": 3,
+    "Fantastic Beasts": 2
   }, {
     "name": "Dane",
     "Iron Man": 4,
@@ -153,7 +189,10 @@
     "Toy Story": 2,
     "Spiderman": 5,
     "Star Wars": 3,
-    "Frozen": 3
+    "Frozen": 3,
+    "Avengers": 5,
+    "Guardians of the Galaxy": 4,
+    "Fantastic Beasts": 2
   }, {
     "name": "Dave",
     "Iron Man": 1,
@@ -164,7 +203,10 @@
     "Toy Story": 3,
     "Spiderman": 4,
     "Star Wars": 3,
-    "Frozen": 2
+    "Frozen": 2,
+    "Avengers": 1,
+    "Guardians of the Galaxy": 2,
+    "Fantastic Beasts": 3
   }, {
     "name": "Chris",
     "Iron Man": 5,
@@ -175,7 +217,10 @@
     "Toy Story": 1,
     "Spiderman": 5,
     "Star Wars": 5,
-    "Frozen": 1
+    "Frozen": 1,
+    "Avengers": 4,
+    "Guardians of the Galaxy": 3,
+    "Fantastic Beasts": 2
   }, {
     "name": "Raj",
     "Iron Man": 3,
@@ -186,7 +231,10 @@
     "Toy Story": 2,
     "Spiderman": 3,
     "Star Wars": 3,
-    "Frozen": 2
+    "Frozen": 2,
+    "Avengers": 3,
+    "Guardians of the Galaxy": 3,
+    "Fantastic Beasts": 3
   }, {
     "name": "Jonny",
     "Iron Man": 4,
@@ -197,7 +245,10 @@
     "Toy Story": 3,
     "Spiderman": 5,
     "Star Wars": 5,
-    "Frozen": 3
+    "Frozen": 3,
+    "Avengers": 4,
+    "Guardians of the Galaxy": 4,
+    "Fantastic Beasts": 1
   }, {
     "name": "James",
     "Iron Man": 3,
@@ -208,9 +259,12 @@
     "Toy Story": 3,
     "Spiderman": 4,
     "Star Wars": 4,
-    "Frozen": 4
+    "Frozen": 4,
+    "Avengers": 3,
+    "Guardians of the Galaxy": 3,
+    "Fantastic Beasts": 1
   }, {
-    "name": "StarWarsfan",
+    "name": "Ronald",
     "Iron Man": 4,
     "Lord of the Rings": 5,
     "Batman": 5,
@@ -219,6 +273,9 @@
     "Toy Story": 5,
     "Spiderman": 4,
     "Star Wars": 4,
-    "Frozen": 3
+    "Frozen": 3,
+    "Avengers": 4,
+    "Guardians of the Galaxy": 3,
+    "Fantastic Beasts": 3
   }]
 }
